@@ -1,2 +1,3 @@
-testando Git Remote
+﻿testando Git Remote
 Outra alteração no arquivo!
+Nova alteração da bRanch valdomiro
